@@ -1,0 +1,9 @@
+.star {
+    display: inline-block;
+    color: gold;
+    font-size: 20px;
+    padding-right: 5px;
+}
+.empty-star {
+    color: lightgray;
+}
