@@ -1,9 +1,12 @@
+html{
+    background-color: beige;
+}
 .star {
     display: inline-block;
-    color: gold;
+    color: black;
     font-size: 20px;
     padding-right: 5px;
 }
 .empty-star {
-    color: lightgray;
+    color: darkgrey;
 }
